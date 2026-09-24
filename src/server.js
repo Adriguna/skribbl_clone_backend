@@ -25,7 +25,7 @@ const io =
       origin: [
         "http://localhost:5173",
         "http://localhost:5174",
-        "https://skribbl-clone-by-riteshpathak.netlify.app/"
+        "https://skribbl-clone-by-riteshpathak.netlify.app"
       ],
       methods: [
         "GET",
